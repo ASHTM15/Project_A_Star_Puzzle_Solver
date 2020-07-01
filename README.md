@@ -1,4 +1,4 @@
-# Project_A_Star_Puzzle
+# Project_A_Star_Puzzle_Solver
 
  ## Eight-Puzzle Solver Report ##
  
