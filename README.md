@@ -1,0 +1,2 @@
+# Project_A_Star_Puzzle
+ The program uses different variations of the A* algorithm to solve an eightpuzzle. The A* algorithm is the fastest search algorithm for any kind of given heuristic as it must expand a minimum of A* nodes. The different types of variations are uniform cost search, A* with the Misplaced Tile heuristic, and A* with Euclidean Distance heuristic. The program allows the eight-puzzle to be solves with any of the three options.
